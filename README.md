@@ -1,1 +1,1 @@
-Sistema de funconários e contas bancarias utilizando Java Orientado a Objetos.
+Sistema de funcionários e contas bancarias utilizando Java Orientado a Objetos.
